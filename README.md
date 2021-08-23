@@ -1,0 +1,2 @@
+# CurseCalcs
+Terminal calculators
